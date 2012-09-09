@@ -1,10 +1,12 @@
 ;; cdk-config.el - Contains my customizations and configurations
-;; Last modified : Mon, 20 February 2012 03:06:22 EST
+;; Last modified : Sun, 9 September 2012 16:16:53 EDT
+
+;; Original credits - Chinmay Kamat (chinmaykamat@gmail.com)
 
 ;; User details
 
-(setq user-full-name "Chinmay Kamat")
-(setq user-mail-address "chinmaykamat@gmail.com")
+(setq user-full-name "Amod Jaltade")
+(setq user-mail-address "amodjaltade@gmail.com")
 
 ;; UI
 (if (fboundp 'scroll-bar-mode) (scroll-bar-mode -1)) ;; no scroll-bar

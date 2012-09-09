@@ -35,7 +35,7 @@
 (require 'color-theme)
 
 (defvar wombat-fg "#f6f3e8")
-(defvar wombat-bg "#242424")
+(defvar wombat-bg "#101010")
 (defvar wombat-green "#95e454")
 (defvar wombat-green+1 "#cae682")
 (defvar wombat-green+2 "#4BC98A")

@@ -1,0 +1,1 @@
+/home/amod/.emacs.d

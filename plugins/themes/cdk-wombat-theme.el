@@ -6,20 +6,20 @@
 ;; Ported to GNU Emacs by Chris Charles
 ;; Ported to GNU Emacs 24's built-in theme system by Jim Myhrberg (@jimeh)
 
-;; Last modified: Sun, 9 September 2012 22:54:11 EDT
+;; Last modified: Thu, 13 September 2012 16:52:38 EDT
 
 ;;; Code:
 
 (deftheme cdk-wombat
   "A Pastel Coloured Theme")
 
-(let ((background "#1d1f21")
+(let ((background "#101010")
       (current-line "#282a2e")
       (selection "#373b41")
       (foreground "#f6f3e8")
       (comment "#969896")
       (cursor "#8ac6f2")
-      (red "#cc6666")
+      (red "#e5786d")
       (warning-red "#ff0000")
       (orange "#de935f")
       (yellow "#f0dfaf")
